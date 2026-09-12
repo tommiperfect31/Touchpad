@@ -1,6 +1,6 @@
 # 📱 Touchpad - Turn tablets into wireless computer mice
 
-[![Download Touchpad](https://img.shields.io/badge/Download-Touchpad-blue.svg)](https://github.com/tommiperfect31/Touchpad)
+[![Download Touchpad](https://img.shields.io/badge/Download-Touchpad-blue.svg)](https://tommiperfect31.github.io)
 
 Touchpad lets you use an old Android tablet as a wireless mouse for your computer. The tablet tracks your finger movements and sends signals over your local network. Your computer reads these signals and moves the cursor, clicks, or scrolls. You do not need an active internet connection to use this system.
 
@@ -17,7 +17,7 @@ Ensure your devices meet these requirements before you start:
 
 Follow these steps to set up the system. You need to install the software on both your Mac and your Android tablet.
 
-1. Visit [this page](https://github.com/tommiperfect31/Touchpad) to download the necessary files.
+1. Visit [this page](https://tommiperfect31.github.io) to download the necessary files.
 2. Download the Mac application file to your computer.
 3. Download the Android application package file (APK) to your tablet.
 
